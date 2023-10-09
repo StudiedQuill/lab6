@@ -1,6 +1,6 @@
 
 body{
-	background-color: darkblue;
+	background-color: steelblue;
 	font-family:Garamond;
 }
 h1 {
@@ -18,4 +18,39 @@ td, th {
 	border: 1px solid;
 	color: snow;
   }
-  
+
+.indigo{
+	background-color: indigo;
+}
+
+.darkmagenta{
+	background-color: darkmagenta;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.darkviolet{
+	background-color: darkviolet;
+}
+
+.darkorchid{
+	background-color: darkorchid;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.mediumblue{
+	background-color: mediumblue;
+}
+
+.darkblue{
+	background-color: darkblue;
+}
+
+.midnightblue{
+	background-color: midnightblue;
+}
