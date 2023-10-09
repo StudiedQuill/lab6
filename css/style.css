@@ -1,4 +1,22 @@
+
+body{
+	background-color: darkblue;
+	font-family:Garamond;
+}
+h1 {
+	color: yellow;
+	background-color: orange;
+}
+
+h2 {
+	color: purple;
+	background-color: silver;
+
+}
+
 td, th {
 	border: 1px solid;
+	background-color: indigo;
+	color: snow;
   }
   
