@@ -6,11 +6,13 @@ body{
 h1 {
 	color: yellow;
 	background-color: orange;
+	padding: 5px 10px 5px 10px;
 }
 
 h2 {
 	color: purple;
 	background-color: silver;
+	padding: 2px 5px 2px 5px;
 
 }
 
