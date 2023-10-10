@@ -4,19 +4,19 @@ body{
 	font-family:Garamond;
 }
 h1 {
+	font-style: italic;
+	font-weight: 900;
 	color: yellow;
 	background-color: orange;
 	padding: 5px 10px 5px 10px;
-	font-weight: 900;
-	font-style: italic;
 }
 
 h2 {
+	font-style: italic;
+	font-weight: 700;
 	color: purple;
 	background-color: silver;
 	padding: 2px 5px 2px 5px;
-	font-style: italic;
-	font-weight: 700;
 
 }
 
