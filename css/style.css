@@ -1,68 +1,54 @@
-
 body{
-	background-color: steelblue;
-	font-family:Garamond;
+  background-color: steelblue;
+  font-family:Garamond;
 }
 h1 {
-	font-style: italic;
-	font-weight: 900;
-	color: yellow;
-	background-color: orange;
-	padding: 5px 10px 5px 10px;
+  font-style: italic;
+  font-weight: 900;
+  color: yellow;
+  background-color: orange;
+  padding: 5px 10px 5px 10px;
 }
-
 h2 {
-	font-style: italic;
-	font-weight: 700;
-	color: purple;
-	background-color: silver;
-	padding: 2px 5px 2px 5px;
-
+  font-style: italic;
+  font-weight: 700;
+  color: purple;
+  background-color: silver;
+  padding: 2px 5px 2px 5px;
 }
-
 td, th {
-	border: 1px solid;
-	color: snow;
+  border: 1px solid;
+  color: snow;
 }
-
 img{
-	max-width: 400px;
-	max-height: 400px;
-	object-fit: cover;
+  max-width: 400px;
+  max-height: 400px;
+  object-fit: cover;
 }
-
 .indigo{
-	background-color: indigo;
+  background-color: indigo;
 }
-
 .darkmagenta{
-	background-color: darkmagenta;
+  background-color: darkmagenta;
 }
-
 .purple{
-	background-color: purple;
+  background-color: purple;
 }
-
 .darkviolet{
-	background-color: darkviolet;
+  background-color: darkviolet;
 }
-
 .darkorchid{
-	background-color: darkorchid;
+  background-color: darkorchid;
 }
-
 .blue{
-	background-color: blue;
+  background-color: blue;
 }
-
 .mediumblue{
-	background-color: mediumblue;
+  background-color: mediumblue;
 }
-
 .darkblue{
-	background-color: darkblue;
+  background-color: darkblue;
 }
-
 .midnightblue{
-	background-color: midnightblue;
+  background-color: midnightblue;
 }
